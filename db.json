@@ -4,7 +4,7 @@
       "id" : 0,
       "title": "Playlist test",
       "description" : "My first playlist",
-      "user_id": "",
+      "user_id": "firstUser",
       "videos": [{
         "id": 0,
         "title": "Title",
